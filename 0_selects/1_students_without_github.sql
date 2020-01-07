@@ -1,4 +1,4 @@
 SELECT id, name, email, cohort_id
-FROM students
+FROM studentsPSQ
 WHERE github IS NULL
 ORDER BY cohort_id

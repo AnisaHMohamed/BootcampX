@@ -14,4 +14,4 @@ ORDER BY average_assignment_duration
 -- Order by average completion time from smallest to largest.
 -- Only get currently enrolled students.
 -- This will require data from students, assignment_submissions, and assignments.
--- Expected Result:
+-- Expected Re
